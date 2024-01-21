@@ -64,7 +64,8 @@ của chương trình. Tùy theo kiểu dữ liệu của biến, một ô trong
 SYNTAX(CÚ PHÁP):
 
 ```C
-Data_Type Variable_Name;
+//Data_Type Variable_Name;
+int a_variable;
 ```
 
 Ví dụ:

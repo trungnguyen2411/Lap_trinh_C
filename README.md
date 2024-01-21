@@ -61,19 +61,17 @@ Kiểu dữ liệu: char có đặc tả tương ứng: %c
 Biến được sử dụng để lưu các giá trị trong quá trình tính toán
 của chương trình. Tùy theo kiểu dữ liệu của biến, một ô trong bộ nhớ sẽ được cấp phát để lưu trữ giá trị của biến này. 
 
-SYNTAX(CÚ PHÁP):
-
-```C
-//Data_Type Variable_Name;
-int a_variable;
-```
+#### Syntax(Cú pháp):
+#### Data_Type Variable_Name;
 
 Ví dụ:
+```C
 int x;
 long long b;
 char ki_tu;
 int check;
 double dientich;
+```
 
 Quy tắc đặt tên biến:
 - Không đặt tên biến bắt đầu bằng chữ số

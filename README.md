@@ -58,7 +58,7 @@ Kiểu dữ liệu: char có đặc tả tương ứng: %c
 
 ## Bài 3. Biến(Variable)
 ### Biến(Variable)
-Biến được sử dụng để lưu các giá trị trong quá trình tính toán
+`Biến` được sử dụng để lưu các giá trị trong quá trình tính toán
 của chương trình. Tùy theo kiểu dữ liệu của biến, một ô trong bộ nhớ sẽ được cấp phát để lưu trữ giá trị của biến này. 
 
 #### Syntax(Cú pháp):

@@ -10,5 +10,5 @@ int main()
     float chuvi;
     double tienluong;
     char kitu;
-    
+     
 }

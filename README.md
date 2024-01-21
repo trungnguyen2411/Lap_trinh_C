@@ -83,4 +83,4 @@ Quy tắc đặt tên biến:
 - Không được đặt 2 biến có cùng tên trong cùng một phạm vi
     Ví dụ cách đặt sai: int a; float a;
 
-Lưu ý: Không nên đặt tên biến quá dài, nên đặt tên biến có ý nghĩa.
+Lưu ý: Không nên đặt tên biến quá dài, nên đặt tên biến có ý nghĩa. 
